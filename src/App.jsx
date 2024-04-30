@@ -1,5 +1,5 @@
-import React from 'react'
 import Todo from './todo'
+import "./index.css"
 
 const App = () => {
   return (
